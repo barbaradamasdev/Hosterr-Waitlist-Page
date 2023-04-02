@@ -1,30 +1,26 @@
+![Preview](./Design/Landing%20Page%20-%20Desktop%20View.png)
 
-# Welcome to Codewell! 👋
+## 🔗 Link
 
-Codewell's aim is to provide you with real-world design templates that you can use to practice your HTML and CSS projects. 
+- [Live Version](https://barbaradamasdev.github.io/Hosterr-Waitlist-Page)
 
-Free or paid, all templates are high quality and will make great portfolio pieces.
+## 😄 Hello!
 
-### I've completed the challenge, now what?
+This is a project in HTML and CSS, a challenge from [Frontend Mentor](https://www.frontendmentor.io).
+To complete this challenge I needed basic knowledge of HTML and CSS
 
-We recommend using one of these two websites to deploy your projects
+## ⚔️ The challenge
 
-- [GitHub Pages](https://pages.github.com/)
-- [Netlify](https://www.netlify.com/)
+The ideia of the challenge is to reproduce a close as possible to the proposed design. I used basic elements of both, with I had in mind, literally testing and improving. After finishing, I went to search of other professionals who already solved the challenge to se how I could improve. Satisfied with the result and movind on to the next one!
 
-They're super easy to setup and you should have your website up and running in no time, just follow their instructions.
+## 💾 Technologies Used:
 
+- HTML
+- CSS
+- Flexbox
+- Responsive layout
+- Visual Studio Code
 
-### Submit your solution to Codewell
+## 🐼 Author
 
-Visit the relevant challenge on [Codewell](https://codewell.cc) and click on 'Submit Solution' right under the challenge.
-Enter all the title, Github repo URL, Live URL (Netlify or GH Pages), and tell the community what challenges you've faced.
-
-### Join our community on Slack
-
-If you want more real-time communication, you can visit our community on [Slack](https://join.slack.com/t/codewell-hq/shared_invite/zt-ni8c9g8h-gNYWrmqQ3Uh37dcLg9~LMQ). 
-
-### Fonts Used
-
-https://fonts.google.com/specimen/Lato
-https://fonts.google.com/specimen/Playfair+Display
+Bárbara Damasceno - barbaradamas.dev@gmail.com
