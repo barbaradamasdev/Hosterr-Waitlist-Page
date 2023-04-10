@@ -6,7 +6,7 @@
 
 ## 😄 Hello!
 
-This is a project in HTML and CSS, a challenge from [Frontend Mentor](https://www.frontendmentor.io).
+This is a project in HTML and CSS, a challenge from [CodeWell](https://www.codewell.cc/).
 To complete this challenge I needed basic knowledge of HTML and CSS
 
 ## ⚔️ The challenge
